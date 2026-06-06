@@ -6,7 +6,7 @@ def load_temp_data(json_files, node_keys=["pub_key","last_update"], edge_keys=["
     """Load LN graph json files from several snapshots"""
     node_info, edge_info = [], []
     for idx, json_f in enumerate(json_files):
-        with open(json_f) as f:
+        with open(json_f, encoding="utf-8-sig") as f:
             try:
                 tmp_json = json.load(f)
             except json.JSONDecodeError:
