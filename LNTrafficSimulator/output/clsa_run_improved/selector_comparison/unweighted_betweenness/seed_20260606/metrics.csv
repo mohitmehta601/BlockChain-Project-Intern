@@ -1,0 +1,2 @@
+total_transactions,successful_transactions,failed_transactions,success_ratio,average_successful_fee,average_successful_path_length,depletion_events
+7063,4286,2777,0.6068242956250884,8.123621791880542,3.029398040130658,2131

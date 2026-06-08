@@ -1,0 +1,2 @@
+successful_transactions_mean,failed_transactions_mean,success_ratio_mean,average_successful_fee_mean,average_successful_path_length_mean,depletion_events_mean,successful_transactions_std,failed_transactions_std,success_ratio_std,average_successful_fee_std,average_successful_path_length_std,depletion_events_std,runs
+4321.0,2745.0,0.6115199547127087,9.098803517704233,3.0050914140245313,2147.0,0.0,0.0,0.0,0.0,0.0,0.0,1
