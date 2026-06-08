@@ -1,0 +1,11 @@
+{
+  "metric": "hops",
+  "requested_k_sources": 200,
+  "effective_k_sources": 200,
+  "seed": 42,
+  "amount_sat": 10000,
+  "nodes": 2794,
+  "directed_edges": 34309,
+  "physical_node_pairs": 19619,
+  "calculation_seconds": 0.9620784999988246
+}

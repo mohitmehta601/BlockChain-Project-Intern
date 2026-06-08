@@ -1,0 +1,13 @@
+metric,value
+total_transactions,6998.0
+successful_transactions,4667.0
+failed_transactions,2331.0
+success_rate_pct,66.69048299514147
+failure_rate_pct,33.309517004858535
+average_path_length,2.808013713306192
+average_routing_fee,1.3190796014570387
+total_depletion_events,672.0
+nodes_with_depletion_events,202.0
+initial_active_directed_edges,32962.0
+final_active_directed_edges,32767.0
+runtime_seconds,8.939205499998934

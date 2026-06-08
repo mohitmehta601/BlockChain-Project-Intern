@@ -1,0 +1,27 @@
+{
+  "experiment_type": "ebc_attack",
+  "experiment_id": "ebc_top200_remove50",
+  "edges": "ln_data\\ln_edges.csv",
+  "snapshot_id": 0,
+  "params": {
+    "amount": 10000,
+    "count": 7000,
+    "epsilon": 0.8,
+    "drop_disabled": true,
+    "drop_low_cap": true,
+    "with_depletion": true
+  },
+  "ebc_metric": "hops",
+  "k_sources": 200,
+  "ebc_seed": 42,
+  "transaction_seed": 42,
+  "liquidity_seed": 42,
+  "route_metric": "fee",
+  "top_k": 200,
+  "remove_pct": 50.0,
+  "selected_channel_pairs": 200,
+  "changed_raw_rows": 454,
+  "removed_capacity_sat_from_directed_rows": 546039922.0,
+  "original_physical_capacity_sat": 62373016569.0,
+  "attacked_physical_capacity_sat": 62099996608.0
+}

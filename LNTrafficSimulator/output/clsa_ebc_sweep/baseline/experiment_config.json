@@ -1,0 +1,17 @@
+{
+  "experiment_type": "baseline",
+  "edges": "ln_data\\ln_edges.csv",
+  "snapshot_id": 0,
+  "params": {
+    "amount": 10000,
+    "count": 7000,
+    "epsilon": 0.8,
+    "drop_disabled": true,
+    "drop_low_cap": true,
+    "with_depletion": true
+  },
+  "transaction_seed": 42,
+  "liquidity_seed": 42,
+  "route_metric": "fee",
+  "original_physical_capacity_sat": 62373016569.0
+}
