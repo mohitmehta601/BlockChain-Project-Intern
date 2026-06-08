@@ -1,2 +1,0 @@
-total_transactions,successful_transactions,failed_transactions,success_ratio,average_successful_fee,average_successful_path_length,depletion_events,channels_jammed,jam_ratio,locked_capacity_sat,lost_successful_transactions,throughput_drop,throughput_drop_percent,CAF
-7054,4295,2759,0.6088743975049618,8.92333329452852,3.023981373690338,2095,10,1.0,79249590.0,0,-0.0012561590456018346,-0.12561590456018346,0.0
